@@ -37,7 +37,7 @@ The calculator can be easily customized to fit individual needs:
 
 ## Authors
 
-- [@InDenz](https://www.github.com/InDenz)
+- [@DenizCemberlitas](https://www.github.com/DenizCemberlitas)
 
 
 ## License
